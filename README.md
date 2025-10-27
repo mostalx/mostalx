@@ -30,8 +30,9 @@ Focused on developing skills in **Python**, **C#**, and modern data tools.
 
 ---
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=moustafa-abdalla&show_icons=true&theme=radical)](https://github.com/moustafa-abdalla)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=moustafa-abdalla&theme=juicyfresh&no-frame=true&row=1&no-bg=true)](https://github.com/moustafa-abdalla)
+[![Stats](https://github-readme-stats.vercel.app/api?username=mostalx&show_icons=true&theme=radical)](https://github.com/mostalx)
+
+
 
 ---
 
