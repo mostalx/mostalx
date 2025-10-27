@@ -27,9 +27,6 @@ Focused on developing skills in **Python**, **C#**, and modern data tools.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/excel/excel.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vscode/vscode.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
 
 ---
 
