@@ -18,7 +18,7 @@ Focused on developing skills in **Python**, **C#**, and modern data tools.
 
 #### 📫 Connect with me:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/moustafa-abdalla-1ba008144/) &nbsp;
-<a href="mailto:moustafa@example.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+<a href="mailto:mostafa.abdallae@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 ---
 
