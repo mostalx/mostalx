@@ -3,7 +3,7 @@
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-A **Business Administration graduate** currently pursuing a **Master’s in Computer Science** in Poland.  
+A **Business Administration graduate** currently pursuing a **Master’s in Computer Science**.  
 Interested in **Data Analysis**, **business intelligence**, and leveraging technology to turn data into insights.  
 Focused on developing skills in **Python**, **C#**, and modern data tools.  
 
